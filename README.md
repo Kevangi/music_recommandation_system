@@ -10,7 +10,8 @@
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/video-recommender
-cd video-recommender
+
+git https://github.com/Kevangi/music_recommandation_system.git
+cd music_recommandation_system
 pip install -r requirements.txt
 
