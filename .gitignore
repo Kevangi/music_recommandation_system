@@ -1,0 +1,10 @@
+# Ignore Jupyter and Python cache
+.ipynb_checkpoints/
+.cache
+
+# Ignore data files
+df
+df.pkl
+similarity
+similarity.pkl
+spotify_millsongdata.csv
